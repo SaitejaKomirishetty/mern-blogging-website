@@ -1,4 +1,4 @@
 # Ignore all node_modules folders
 **/node_modules
 **/serviceAccountKey.json
-./server/.env
+/server/.env
